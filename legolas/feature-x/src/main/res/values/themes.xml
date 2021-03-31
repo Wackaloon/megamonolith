@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.Megamonolith.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Megamonolith.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Megamonolith.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

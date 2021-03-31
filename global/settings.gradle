@@ -1,0 +1,12 @@
+rootProject.name = "megamonolith"
+include ':app'
+
+include ':hercules:feature-x'
+include ':legolas:feature-x'
+include ':common:feature-y'
+include ':common:core'
+
+project(":common:core").projectDir = file("../shared/common-core")
+project(":common:feature-y").projectDir = file("../shared/feature-y")
+project(":hercules:feature-x").projectDir = file("../hercules/feature-x")
+project(":legolas:feature-x").projectDir = file("../legolas/feature-x")

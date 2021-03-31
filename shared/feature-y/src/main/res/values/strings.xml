@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_feature_y">FeatureYActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Shared First Fragment Y</string>
+    <string name="second_fragment_label">Shared Second Fragment Y</string>
+    <string name="next">Shared Next Y</string>
+    <string name="previous">Shared Previous Y</string>
+
+    <string name="hello_first_fragment">Hello first Shared fragment Y</string>
+    <string name="hello_second_fragment">Hello second Shared fragment Y. Arg: %1$s</string>
+</resources>

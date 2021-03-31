@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wackaloon.feature_y">
+
+    <application>
+        <activity
+            android:name=".FeatureYActivity"
+            android:label="@string/title_activity_feature_y"
+            android:theme="@style/Theme.Megamonolith.NoActionBar"></activity>
+    </application>
+
+</manifest>
